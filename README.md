@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lDonKaban.lDonKaban&"  />
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 </div>
 
 ###
