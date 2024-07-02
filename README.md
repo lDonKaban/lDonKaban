@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://vk.com/ldonkabanl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="assets/VK_Logo.svg" height="25" alt="VK logo"  />
   </a>
   <a href="https://t.me/lDonKaban" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
